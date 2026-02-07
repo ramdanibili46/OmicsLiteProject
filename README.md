@@ -1,0 +1,1 @@
+This repository contains a structured summary and analysis of a research paper titled “Transcriptomic Analysis of Sepsis Associated Acute Kidney Injury”, focusing on the molecular mechanisms underlying SA-AKI using transcriptomic approaches, prepared as part of the Week 1 activities of the BRSP OmicsLite Program.
